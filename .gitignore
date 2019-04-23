@@ -1,0 +1,13 @@
+.boglfw_path 
+lisped
+lisped.exe 
+build/ 
+.codelite
+*.project
+*.workspace 
+.vscode 
+*.code-workspace 
+.tern-*
+GPATH 
+GRTAGS 
+GTAGS 
